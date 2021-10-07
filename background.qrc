@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background/hall.png</file>
+        <file>background/school.png</file>
+        <file>background/stage.png</file>
+        <file>background/muse.png</file>
+        <file>background/muse_song.png</file>
+        <file>background/sky.png</file>
+        <file>background/score.png</file>
+        <file>background/time.png</file>
+        <file>background/p1.png</file>
+        <file>background/p2.png</file>
+        <file>modebutton/return.png</file>
+        <file>modebutton/return_pressed.png</file>
+        <file>background/help.png</file>
+        <file>background/help2.png</file>
+    </qresource>
+</RCC>

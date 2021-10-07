@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/song_lock">
+        <file>song/aishiterubanzai_lock.png</file>
+        <file>song/bokuranolive_lock.png</file>
+        <file>song/bokurawaimanonakade_lock.png</file>
+        <file>song/dancingstarsonme_lock.png</file>
+        <file>song/kirakirasensation_lock.png</file>
+        <file>song/korekaranosomeday_lock.png</file>
+        <file>song/lovewingbell_lock.png</file>
+        <file>song/nobrandgirls_lock.png</file>
+        <file>song/ohloveandpeace_lock.png</file>
+        <file>song/snowhalation_lock.png</file>
+        <file>song/startdash_3_lock.jpg</file>
+        <file>song/startdash9_lock.png</file>
+        <file>song/susumetomorrow_lock.png</file>
+        <file>song/wonderzone_lock.png</file>
+        <file>song/yumenotobira_lock.jpg</file>
+    </qresource>
+    <qresource prefix="/song_select">
+        <file>song/aishiterubanzai_select.png</file>
+        <file>song/bokuranolive_select.png</file>
+        <file>song/bokurawaimanonakade_select.jpg</file>
+        <file>song/dancingstarsonme_select.png</file>
+        <file>song/kirakirasensation_select.png</file>
+        <file>song/korekaranosomeday_select.png</file>
+        <file>song/lovewingbell_select.png</file>
+        <file>song/nobrandgirls_select.png</file>
+        <file>song/ohloveandpeace_select.png</file>
+        <file>song/snowhalation_select.png</file>
+        <file>song/startdash_3_select.jpg</file>
+        <file>song/startdash9_select.png</file>
+        <file>song/susumetomorrow_select.png</file>
+        <file>song/wonderzone_select.png</file>
+        <file>song/yumenotobira_select.jpg</file>
+    </qresource>
+    <qresource prefix="/song">
+        <file>song/aishiterubanzai.png</file>
+        <file>song/bokuranolive.png</file>
+        <file>song/bokurawaimanonakade.jpg</file>
+        <file>song/dancingstarsonme.png</file>
+        <file>song/kirakirasensation.png</file>
+        <file>song/korekaranosomeday.png</file>
+        <file>song/lovewingbell.png</file>
+        <file>song/nobrandgirls.png</file>
+        <file>song/ohloveandpeace.png</file>
+        <file>song/snowhalation.png</file>
+        <file>song/startdash_3.jpg</file>
+        <file>song/startdash9.png</file>
+        <file>song/susumetomorrow.png</file>
+        <file>song/wonderzone.png</file>
+        <file>song/yumenotobira.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>song/startdash.mp3</file>
+    </qresource>
+</RCC>

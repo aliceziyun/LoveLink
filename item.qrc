@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/item">
+        <file>item/hint.png</file>
+        <file>item/shuffle.png</file>
+        <file>item/timeplus.png</file>
+    </qresource>
+</RCC>

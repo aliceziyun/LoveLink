@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>background/mainttitle.jpg</file>
+        <file>background/loveca.png</file>
+        <file>background/mainbutton.png</file>
+        <file>background/mainbutton_select.png</file>
+        <file>background/ninegirls.jpg</file>
+    </qresource>
+</RCC>

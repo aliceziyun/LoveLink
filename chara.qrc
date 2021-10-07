@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/1.png</file>
+        <file>icon/1a.png</file>
+        <file>icon/2.png</file>
+        <file>icon/2a.png</file>
+        <file>icon/3.png</file>
+        <file>icon/3a.png</file>
+        <file>icon/4.png</file>
+        <file>icon/4a.png</file>
+        <file>icon/5.png</file>
+        <file>icon/5a.png</file>
+        <file>icon/6.png</file>
+        <file>icon/6a.png</file>
+        <file>icon/7.png</file>
+        <file>icon/7a.png</file>
+        <file>icon/8.png</file>
+        <file>icon/8a.png</file>
+        <file>icon/9.png</file>
+        <file>icon/9a.png</file>
+    </qresource>
+    <qresource prefix="/chara">
+        <file>chara/1.png</file>
+        <file>chara/2.png</file>
+        <file>chara/3.png</file>
+        <file>chara/4.png</file>
+        <file>chara/5.png</file>
+        <file>chara/6.png</file>
+        <file>chara/7.png</file>
+        <file>chara/8.png</file>
+        <file>chara/9.png</file>
+    </qresource>
+</RCC>

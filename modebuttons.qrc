@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>modebutton/double.png</file>
+        <file>modebutton/double_pressed.png</file>
+        <file>modebutton/help.png</file>
+        <file>modebutton/help_pressed.png</file>
+        <file>modebutton/other.png</file>
+        <file>modebutton/other_pressed.png</file>
+        <file>modebutton/single.png</file>
+        <file>modebutton/single_pressed.png</file>
+        <file>modebutton/song.png</file>
+        <file>modebutton/song_pressed.png</file>
+        <file>modebutton/return.png</file>
+        <file>modebutton/return_pressed.png</file>
+    </qresource>
+</RCC>

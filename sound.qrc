@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/click.wav</file>
+        <file>sound/eliminate.wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+    </qresource>
+</RCC>
